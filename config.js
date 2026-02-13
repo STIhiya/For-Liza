@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Зафиксировать честный ответ ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Надеюсь, эта Валентинка подняла тебе настроение среди всех твоих дедлайнов.", // The big question!
+            text: "Надеюсь, эта Валентинка подняла тебе настроение среди всех твоих дел.", // The big question!
             yesBtn: "Да",                                             // Text for "Yes" button
             noBtn: "кринж!"                                                 // Text for "No" button
         }
